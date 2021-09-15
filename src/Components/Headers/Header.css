@@ -1,0 +1,87 @@
+.menu1 {
+    height: 62px;
+    border: 1px solid rgb(200, 202, 173);
+    background-color: #88A8DF;
+    font-size: 14px;
+    position: fixed;
+    top: 0;
+    width: 100vw;
+    display: flex;
+    justify-content: center;
+    margin: 0px;
+}
+
+.menu1 ul {
+    list-style: none;
+    text-align: left;    
+}
+
+.menu1 ul li{
+    display: inline;
+}
+
+
+.menu1 ul li a:hover {
+    font-weight: bold;
+    color: black;
+}
+
+.m0, 
+.m1, 
+.m2,
+.m3,
+.m4,
+.m5 {
+    padding: 28px;
+    display: flex;
+    justify-content: center;
+    text-align: center;    
+}
+
+.m0 a { 
+    color: white;
+    margin: 5px;
+    text-decoration: none;
+}
+
+.m1 a, .m2 a, .m3 a {
+    color: white;
+    margin: 5px;
+    overflow: hidden;
+    text-decoration: none;
+}
+.m4 a, .m5 a {
+    color: black;
+    margin: 5px;
+    text-decoration: none;
+}
+
+
+.m0{
+
+    border: 1px solid  rgb(151, 134, 116);
+    background-color: peru;    
+}
+
+.m1{
+    border: 1px solid rgb(26, 90, 37);
+    background-color: green;    
+}
+
+.m2{
+    border: 1px solid rgb(206, 159, 159);
+    background-color: rgb(253, 194, 194);    
+}
+
+.m3{
+    border: 1px solid rgb(105, 125, 237);
+    background-color: rgb(153, 178, 243);    
+}
+.m4{
+    border: 1px solid rgb(182, 182, 4);
+    background-color: yellow;    
+}
+.m5{
+    border: 1px solid white;
+    background-color: white;    
+}

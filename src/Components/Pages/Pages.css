@@ -1,0 +1,25 @@
+header {
+    height: 45px; 
+    background-color: #dee5f013; 
+    padding: 0;
+}
+main {
+    height: 78vh;
+    text-align: center;
+    justify-content: center;
+
+}
+
+
+.pag1{
+    background-color: rgb(153, 178, 243);    
+}
+
+.pag2{
+    background-color: yellow;    
+}
+
+.pag3{
+    background-color: rgb(153, 178, 243);    
+}
+
